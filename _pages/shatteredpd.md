@@ -24,6 +24,7 @@ Shattered Pixel Dungeon includes:
 - **Updates** with new content roughly once a month.
 
 You can download Shattered Pixel Dungeon on Android from:
+- [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
 - [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M/)
 - [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
